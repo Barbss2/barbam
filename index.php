@@ -12,7 +12,7 @@
   <p>Contact information: <a href="mailto:charlesbarbss@gmail.com">charlesbarbss@gmail.com</a>.</p>
 </footer>
 
-<p><strong>Note:</strong> Footer.</p>
+<p><strong>Note:</strong>This is the footer.</p>
 
 </body>
 </html>
