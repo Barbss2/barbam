@@ -8,7 +8,7 @@
 <body>
 <footer>
 <p>Posted by: Charles Barba</p>
-<p>Contact information: <a href="mailto:charlesbarbss@gmail.com">charlesbarbss@gmail.com</a>.</p>
+<p>Contact information: <a href ="mailto:charlesbarbss@gmail.com">charlesbarbss@gmail.com</a>.</p>
 </footer>
 <main><h1 style="font-family: calibri".>This is the main</h1></main>
 
